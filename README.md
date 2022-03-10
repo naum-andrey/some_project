@@ -1,5 +1,5 @@
 ### Example json
-`
+```
 {
   "FileID": "{Empr/FileID}",
   "RegistryItem_EmdrID": "{EmdrID}",
@@ -20,4 +20,4 @@
   "DocType_NAME": "{Empr/DocType/EhrDocType/NameEHR}",
   "associations": "" 
 }
-`
+```
